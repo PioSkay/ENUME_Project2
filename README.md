@@ -1,11 +1,11 @@
 # ENUME_Project2
-A Numerical Method project cointaining 4 tasks.
+A Numerical Method project cointaining 4 tasks. \n
 ## 1. 
-Find all zeros of the function.
-            f(x) = 3.1 - 3x - e^-x
-in the interval [–5, 10] using:
-a) the bisection method,
-b) the Newton’s method. 
+Find all zeros of the function. \n
+            f(x) = 3.1 - 3x - e^-x \n
+in the interval [–5, 10] using: \n
+a) the bisection method, \n 
+b) the Newton’s method.  \n
 ## 2.
 Find all (real and complex) roots of the polynomial 
 
