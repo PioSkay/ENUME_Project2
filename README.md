@@ -5,7 +5,7 @@ Find all zeros of the function. \
 f(x) = 3.1 - 3x - e^-x  \
 in the interval [–5, 10] using: \
 a) the bisection method, \
-b) the Newton’s method. \
+b) the Newton’s method.
 ## 2.
 Find all (real and complex) roots of the polynomial \
 f(x) = a4x^4 + a3x^3 + a2x^2 + a1x + a0 [a4, a3, a2, a1, a0] = [-1, -7, 7, 3, 9]
